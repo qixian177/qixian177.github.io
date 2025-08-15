@@ -24,9 +24,9 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/bg1.jpg" # used as default for background images 
-c:aultFeaturedImage ="图片.png" # used
+defaultBackgroundImage ="图片.png" # used
 
-c:aultFeaturedImage ="图片.png" # used
+defaultFeaturedImage ="图片.png" # used
 
 highlightCurrentMenuArea = true
 smartTOC = true
