@@ -23,7 +23,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/bg1.jpg" # used as default for background images 
+#defaultBackgroundImage = "/img/bg1.jpg" # used as default for background images 
 defaultBackgroundImage ="图片.png" # used
 
 defaultFeaturedImage ="图片.png" # used
