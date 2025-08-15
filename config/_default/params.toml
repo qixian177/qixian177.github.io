@@ -24,8 +24,9 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/bg1.jpg" # used as default for background images 
-defaultFeaturedImage = "/img/bg1.jpg" # used as default for featured images in all articles
-# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+c:aultFeaturedImage ="图片.png" # used
+
+c:aultFeaturedImage ="图片.png" # used
 
 highlightCurrentMenuArea = true
 smartTOC = true
